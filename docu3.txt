@@ -1,0 +1,2 @@
+Creo fichero docu3.txt y añado linea
+Nueva linea para docu3.txt
