@@ -1,2 +1,0 @@
-fichero docu1
-Creo una linea en docu1
