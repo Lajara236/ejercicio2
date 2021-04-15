@@ -1,4 +1,10 @@
 Primera linea en rama1.txt
 Segunda linea en rama1.txt
+<<<<<<< HEAD
 Segundo cambio en master
 Nuevo cambio en master
+=======
+Segndo cambio
+Nuevo cambio
+Linea final
+>>>>>>> mirama
